@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/headless/22-fall-CPUSample-main/task-11.5/count_10.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module count_10
-INFO: [VRFC 10-2263] Analyzing Verilog file "/headless/22-fall-CPUSample-main/task-11.5/count10_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module count10_tb

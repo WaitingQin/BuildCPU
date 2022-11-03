@@ -1,1 +1,0 @@
--wto "b5339eb0aa9f400faa5bdb393582ca00" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "count10_tb_behav" "xil_defaultlib.count10_tb" "xil_defaultlib.glbl" -log "elaborate.log" 
